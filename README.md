@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GovindVijay
-- 👀 I’m interested in programming, software development graphics designing etc
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently a Web Developer.
+- 👀 I’m interested in programming, software development graphics designing etc.
 - 📫 you can to reach me through  govind52278@gmail.com
 
 <!---
