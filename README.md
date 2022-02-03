@@ -11,8 +11,6 @@
 - ![](https://github-readme-stats.vercel.app/api?username=Govindv7555&show_icons=true&theme=tokyonight)
 - ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Govindv7555)
 - ![](https://github-readme-streak-stats.herokuapp.com/?user=Govindv7555)
-- 
-- 
 <!---
 GovindVijay/GovindVijay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
