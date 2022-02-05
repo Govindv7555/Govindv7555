@@ -11,9 +11,6 @@
 - ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Govindv7555)
 - ![](https://github-readme-streak-stats.herokuapp.com/?user=Govindv7555)
 
-![](name-of-giphy.gif)
-In my case:
-![Uzoma Medium Gif](https://user-images.githubusercontent.com/33858127/88416966-1e53ca00-cdaf-11ea-82f8-f8b90949ac73.gif)
 <!---
 GovindVijay/GovindVijay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
