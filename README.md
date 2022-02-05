@@ -1,4 +1,4 @@
-- Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;">, I’m GovindVijay<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width: 100%;">
+- Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;">, I’m GovindVijay <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width: 100%;">
 - 🌱 I’m currently a Web Developer.
 - 👀 I’m interested in programming, software development graphics designing etc.
 - 📫 you can to reach me through  govind52278@gmail.com
