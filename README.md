@@ -1,5 +1,5 @@
 - Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;"> there, I’m Govind Vijay &nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width: 100%;">
-- 🌱 I’m currently a Web Developer and Programmer.
+- 🌱 I’m currently a Web Developer and Competitive Programmer.
 - 👀 I’m interested in programming, software development and graphics designing etc.
 - 📫 You can to reach me through govind52278@gmail.com
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=100px>
