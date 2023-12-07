@@ -12,7 +12,6 @@
 - ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Govindv7555)
 - ![](https://github-readme-streak-stats.herokuapp.com/?user=Govindv7555)
 - <img src="https://itch.io/embed/2363436" width="552" height="167">
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 <!---
 GovindVijay/GovindVijay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
